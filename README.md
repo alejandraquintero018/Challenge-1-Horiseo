@@ -30,12 +30,10 @@ md![alt text](asset/Screen Shot .png)
 
 Provide instructions and examples for use. Include screenshots as needed.
 
-    ```md
-    ![alt text](assets/images/screenshot-1.png)
-    ```
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```  
+md![alt text](assets/images/screenshot-1.png)
+    
+md![alt text](assets/images/screenshot.png)
+    
     
 
 ## Credits
@@ -43,7 +41,6 @@ Provide instructions and examples for use. Include screenshots as needed.
 The original code came from [alt text](assets/index.html)
 
 I got help from the Tutor Chris Baird
-git
 
 ## Test
 
